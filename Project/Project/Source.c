@@ -5,10 +5,10 @@
 int main() {
 
 	printf("	# Program 1 #\n");
-	char b;
+	char b1;
 
 	printf("Enter the char 'B': ");
-	scanf("%c", &b);
+	scanf("%c", &b1);
 	printf("You entered the char: %c\n", b);
 	printf("Symbol code: %d\n\n", b);
 
